@@ -1,6 +1,5 @@
 import { Play, HandPalm } from 'phosphor-react'
 import { useEffect, useState } from 'react'
-import { differenceInSeconds } from 'date-fns'
 import { NewCycleForm } from './components/NewCycleForm'
 import { Countdown } from './components/Countdown'
 
