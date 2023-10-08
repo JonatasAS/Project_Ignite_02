@@ -95,6 +95,7 @@ export function Home() {
             Começar
           </StartCountdownButton>
         )}
+        
       </form>
     </HomeContainer>
   )
