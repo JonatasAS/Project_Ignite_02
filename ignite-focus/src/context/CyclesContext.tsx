@@ -111,6 +111,7 @@ export function CyclesContextProvider({
         newCycle,
       },
     })
+    
     /* setCycles((state) => [...state, newCycle]) */
     setAmountSecondsPassed(0)
   }
