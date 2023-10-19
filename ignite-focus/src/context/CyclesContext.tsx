@@ -55,6 +55,7 @@ export function CyclesContextProvider({
 
       return initialState
     },
+    
   )
 
   const { cycles, activeCycleId } = cyclesState
