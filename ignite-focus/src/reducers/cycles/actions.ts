@@ -19,7 +19,6 @@ export function markCurrentCycleAsFinishedAction() {
   return {
     type: ActionTypes.MARK_CURRENT_AS_FINISHED,
   }
-  
 }
 
 export function interruptCurrentCycleAction() {
