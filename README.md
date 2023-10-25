@@ -19,7 +19,7 @@ Documentação do projeto no figma do Projeto **Ignite Timer** [desse link](http
 
 ### Apresentação dos projetos
 - Projeto **Ignite Timer**
-- O projeto foi implantado pelo Vercel, caso queira visualizar acesse o link [Ignite Focus](https://github.com/JonatasAS/assets/blob/main/FocusTimerIgnite.png)
+- O projeto foi implantado pelo Vercel, caso queira visualizar acesse o link [Ignite Timer](https://ignite-focus-kvlhatpr8-jonatasas.vercel.app/)
   
   <p align= "center">
   <img src="https://github.com/JonatasAS/assets/blob/main/FocusTimerIgnite.png" alt="Demonstração do projeto" width="50%" />
