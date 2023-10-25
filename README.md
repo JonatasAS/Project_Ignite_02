@@ -18,7 +18,7 @@ Se trata de um contador no qual podemos definir uma contagem por vez, de no mini
 Documentação do projeto no figma do Projeto **Ignite Timer** [desse link](https://www.figma.com/file/oQ2NRRhOI4Est5fThQ7crG/Ignite-Timer-(Community)?type=design&node-id=2-12&mode=design&t=gcrEtRqMRJQAEzyM-0). É necessário ter uma conta no [figma](https://www.figma.com).
 
 ### Apresentação dos projetos
-- Projeto **Ignite Focus**
+- Projeto **Ignite Timer**
 - O projeto foi implantado pelo Vercel, caso queira visualizar acesse o link [Ignite Focus](https://github.com/JonatasAS/assets/blob/main/FocusTimerIgnite.png)
   
   <p align= "center">
