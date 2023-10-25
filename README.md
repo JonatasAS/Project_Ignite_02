@@ -10,6 +10,12 @@
 -  Styled Components
 -  Javascript/Typescript
 -  uuid
+-  Hooks
+-  date-fns
+-  immer
+-  zod
+-  phosphor icons
+-  localstorage
 
 ## 🖥 O primeiro projeto Ignite timer
 Se trata de um contador no qual podemos definir uma contagem por vez, de no minimo 5min e seu maximo 60min, desenvolvendo o conceito da forma de focus com o promodoro em nossos afazeres como estudar um determinado assunto sobre um certo tempo que definimos, essas contagem criadas são armazenados no navegador do usuário para que possa ter acesso a ela pelo history da aplicação, conseguindo visualizar algumas caracteristicas, como quando começou e quando terminou, ou se ouve alguma interrupção no processo.
